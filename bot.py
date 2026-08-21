@@ -33,7 +33,7 @@ except ImportError:
 #  ⚙️  CONFIG
 # ═══════════════════════════════════════════
 
-TOKEN = "MTU0MDIzNzY5MTQ5MTMyODAzMQ.Gi_BfV.EGdCZvT08baebKExJe6ukDMGskcW0nnDQB3Wr4"  # 👈 حط التوكن تاعك
+TOKEN = "MTU0MDIzNzY5MTQ5MTMyODAzMQ.GwzHTu.BiahP-uNbHVKg9Q1n3LtlRtJTOi86P4NNCBeA0"  # 👈 حط التوكن تاعك
 OWNER_ID = 661351117049036880  # 👈 حط الـ ID تاعك
 
 # 🔥 حط هنا ID الروم لي تبغي تظهر فيه اللوغات 🔥
