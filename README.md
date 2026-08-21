@@ -1,0 +1,2 @@
+# cpm
+CPM Discord Bot
